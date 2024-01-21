@@ -22,7 +22,7 @@ button.addEventListener('click' , function(){
         button.textContent ="ON"
     } 
     else {
-        bulb.style.backgroundColor  = 'orange'
+        bulb.style.backgroundColor  = 'yellow'
         button.textContent ="OFF"
 
     }
